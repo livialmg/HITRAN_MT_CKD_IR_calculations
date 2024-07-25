@@ -1,4 +1,6 @@
-# HITRAN_MT_CKD_IR_calculations
+# HITRAN_MT_CKD_IR_calculations [![DOI](https://zenodo.org/badge/833772310.svg)](https://zenodo.org/doi/10.5281/zenodo.12826152)
+
+
 This repository contains the RFM code version 5.13, driver table and atmospheric profiles used to generate the Infrared Radiative Transfer Calculations Dataset (DOI: 10.5281/zenodo.11122535), available at: https://zenodo.org/records/11122536.
 
 For details on the Reference foward model (RFM) refer to: https://eodg.atm.ox.ac.uk/RFM/.
